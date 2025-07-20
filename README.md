@@ -6,7 +6,7 @@ Android Frontend
 Go + PostgreSQL Backend  
 JWT Authentication + Expired Token Handling  
 PDF Report Generation  
-Cloud-hosted API, GitHub Pages for documentation
+Cloud-hosted API, GitHub Pages for App Hosting
 
 ## Features
 
