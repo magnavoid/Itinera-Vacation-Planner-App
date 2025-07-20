@@ -29,4 +29,4 @@ Cloud-hosted API, GitHub Pages for documentation
 
 To install the app, download the latest release:
 
-[**Download Itinera**](https://github.com/magnavoid/Itinera-Vacation-Planner-App/releases/latest)
+[**Download Itinera**](https://github.com/magnavoid/Itinera-Vacation-Planner-App/releases/latest/app-release.apk)
